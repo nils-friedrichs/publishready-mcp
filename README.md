@@ -87,7 +87,7 @@ npm test
 
 - npm package: `@veldica/publishready-mcp`
 - MCP Registry name: `io.github.veldica/publishready`
-- Product homepage: `https://veldica.com/publish-ready`
+- Product homepage: [https://veldica.com/publish-ready](https://veldica.com/publish-ready)
 - Source repository: `https://github.com/veldica/publishready-mcp`
 
 ## Registry and Directory Metadata

@@ -154,7 +154,7 @@ The server exposes several resources for documentation, schema reference, and wo
 - npm package: `@veldica/publishready-mcp`
 - MCP Registry name: `io.github.veldica/publishready`
 - Streamable HTTP path: `/mcp`
-- Product homepage: `https://veldica.com/publish-ready`
+- Product homepage: [https://veldica.com/publish-ready](https://veldica.com/publish-ready)
 
 ## Troubleshooting
 
